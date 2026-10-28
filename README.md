@@ -18,7 +18,9 @@ python main.py
 
 ## 상태 그림
 
-![한글 상태 머신](state_machine.svg)
+![한글 상태 머신](state_machine.png)
+
+[PNG 이미지](state_machine.png) · [SVG 원본](state_machine.svg)
 
 ## 검증
 
